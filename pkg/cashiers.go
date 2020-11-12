@@ -2,7 +2,7 @@ package pkg
 
 import (
 	_context "context"
-	"github.com/antihax/optional"
+	"github.com/wondenge/go-fineract/pkg/optional"
 	_ioutil "io/ioutil"
 	_nethttp "net/http"
 	_neturl "net/url"
