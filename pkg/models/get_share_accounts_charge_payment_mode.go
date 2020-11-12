@@ -1,0 +1,8 @@
+package models
+
+// GetShareAccountsChargePaymentMode struct for GetShareAccountsChargePaymentMode
+type GetShareAccountsChargePaymentMode struct {
+	Id          int32  `json:"id,omitempty"`
+	Code        string `json:"code,omitempty"`
+	Description string `json:"description,omitempty"`
+}
